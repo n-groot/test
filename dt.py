@@ -8,3 +8,4 @@ if A>5:
 else:
     print("less than 5")
     print("drink water")
+    print("h2o water")
